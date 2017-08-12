@@ -2,7 +2,7 @@
   "name": "tweet_bot",
   "version": "1.0.0",
   "description": "A twitter bot that post random words",
-  "git repository": "https://github.com/sjumbam15/twitterbot",
+  "git repository": "https://github.com/sjumbam15/tweet_bot",
   "main": "index.js",
   "scripts": {
     "test": "twit"

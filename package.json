@@ -1,0 +1,21 @@
+{
+  "name": "tweet_bot",
+  "version": "1.0.0",
+  "description": "A twitter bot that post random words",
+  "git repository": "https://github.com/sjumbam15/twitterbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "twit"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Joseph Jumbam",
+  "license": "ISC",
+  "dependencies": {
+    "iscool": "^1.1.39",
+    "request": "^2.81.0",
+    "twit": "^2.2.9"
+  }
+}
